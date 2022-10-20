@@ -5,15 +5,14 @@ namespace EMERGENCY_APPLICATION.Model
 
         public string TypeOffAccident{get;set;}
 
-        public string Position{get;set;}
 
 
-        public Accident( string location, string typeoffaccident, string position ):base(location)
+        public Accident( string location, string typeoffaccident):base(location)
         {
             
             Location = location;
             TypeOffAccident = typeoffaccident;
-            Position = position;
+            
         }
     }    
         

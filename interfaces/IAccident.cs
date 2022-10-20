@@ -4,9 +4,9 @@ namespace EMERGENCY_APPLICATION.interfaces
 {
     public interface IAccident
     {
-       public void CheckAccident (string location,string typeoffaccident, string position);
+       public void CheckAccident (string location,string typeoffaccident);
 
-       public void ReportAccident(string location,string typeOfAccident,string position);
+       public void ReportAccident(string location,string typeOfAccident);
 
        public void UpdateAccident(string location);
 

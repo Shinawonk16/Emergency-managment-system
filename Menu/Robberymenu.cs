@@ -61,7 +61,7 @@ namespace EMERGENCY_APPLICATION.Menu
               Console.Write("Enter your location: ");
             string location = Console.ReadLine();
 
-            Console.Write("is the person   harmed\nenter: yes if the person is harmed \nenter: no if the person is not harmed");
+            Console.Write("is the person harmed\nenter: yes if the person is harmed \nenter: no if the person is not harmed");
             System.Console.WriteLine(" ");
             string harmed =Console.ReadLine();
             if(harmed == "yes")

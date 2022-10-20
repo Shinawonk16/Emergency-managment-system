@@ -11,7 +11,7 @@ namespace EMERGENCY_APPLICATION.Implementation
        public void CheckFireoutbreak(string location,string typeofbuilding ,bool fireextigushier)
        {
         Fireoutbreak fire = new Fireoutbreak( location,typeofbuilding,fireextigushier );
-        Console.WriteLine($"keep calm mrs/mr USER and make sure you do not use a lift or escalator the Fire squad would reach your location int the next two minutes");
+        Console.WriteLine($"keep calm mrs/mr USER the Fire squad would reach your location int the next two minutes");
         
        }
        

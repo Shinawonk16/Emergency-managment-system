@@ -21,7 +21,8 @@ namespace EMERGENCY_APPLICATION.Menu
             }
             else if (situation == 3)
             {
-              
+              Fireoutbreakmenu fireoutbreakmenu = new Fireoutbreakmenu();
+              fireoutbreakmenu.FireoutbreakSubmenu();
             }
             else if (situation == 4)
             {

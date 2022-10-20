@@ -13,17 +13,17 @@ namespace EMERGENCY_APPLICATION.Implementation
        {
         
        }
-       public void CheckAccident (string location,string typeoffaccident, string position)
+       public void CheckAccident (string location,string typeoffaccident)
        {
-        Accident acid = new Accident( location,typeoffaccident, position);
+        Accident acid = new Accident( location,typeoffaccident);
         listOfAccident.Add(acid);
-        Console.WriteLine($"keep calm mrs/mr USER our agent would reach the {acid.Location} int the next two minutes,and don,t be frigthen by your {acid.Position}");
+        Console.WriteLine($"keep calm mrs/mr USER our agent would reach the {acid.Location} int the next two minutes,and don,t be frigthen by your position");
 
        }
 
-       public void ReportAccident(string location,string typeOfAccident,string position)
+       public void ReportAccident(string location,string typeOfAccident)
        {
-        Accident accident = new Accident ( location,typeOfAccident,position);
+        Accident accident = new Accident ( location,typeOfAccident);
     
         // listOfComplaints.Add(complaints);
         listOfAccident.Add(accident);
