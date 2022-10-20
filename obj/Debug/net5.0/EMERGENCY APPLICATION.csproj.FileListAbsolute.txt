@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\bin\Debug\net5.0\EMERGENCY APPLICATION.dll
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\bin\Debug\net5.0\EMERGENCY APPLICATION.exe
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\bin\Debug\net5.0\EMERGENCY APPLICATION.deps.json
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\bin\Debug\net5.0\EMERGENCY APPLICATION.runtimeconfig.json
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\bin\Debug\net5.0\EMERGENCY APPLICATION.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\obj\Debug\net5.0\EMERGENCY APPLICATION.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\obj\Debug\net5.0\EMERGENCY APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\obj\Debug\net5.0\EMERGENCY APPLICATION.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\obj\Debug\net5.0\EMERGENCY APPLICATION.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\obj\Debug\net5.0\EMERGENCY APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\obj\Debug\net5.0\EMERGENCY APPLICATION.dll
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\obj\Debug\net5.0\refint\EMERGENCY APPLICATION.dll
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\obj\Debug\net5.0\EMERGENCY APPLICATION.pdb
+C:\Users\Toshiba\Desktop\EMERGENCY APPLICATION\obj\Debug\net5.0\EMERGENCY APPLICATION.genruntimeconfig.cache
